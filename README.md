@@ -16,7 +16,6 @@
 ---
 
 ### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabDev00&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabDev00&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ---
 
